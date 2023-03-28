@@ -1,0 +1,660 @@
+{
+	"content": [
+		{
+			"id": 1,
+			"titulo": "Execução",
+			"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+			"criadoEm": 1594323714000,
+			"ativo": true,
+			"cor": "#7B2481",
+			"exibicaoRelatorio": true,
+			"talentos": [
+				{
+					"id": 1,
+					"titulo": "Realização",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema Realização trabalham duro e apresentam muita perseverança. Elas têm grande satisfação em estarem ocupadas e serem produtivas.",
+					"idExterno": null,
+					"criadoEm": 1597786165000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 5,
+					"titulo": "Organização",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Organização são capazes de organizar, mas também têm uma flexibilidade que complementa essa capacidade. Elas gostam de determinar a maneira como todos os recursos e partes podem ser organizadas para uma máxima produtividade.",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 6,
+					"titulo": "Crença",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Crença têm determinados valores essenciais que são imutáveis. Desses valores, emerge um propósito definido para suas vidas.",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 11,
+					"titulo": "Imparcialidade",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Imparcialidade são conscientes da necessidade de tratar as pessoas com igualdade. Elas tentam tratar a todos com igualdade, estabelecendo regras claras e seguindo-as.\n\n",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 13,
+					"titulo": "Prudência",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Prudência são melhores descritas pelo grande cuidado ao tomarem decisões ou fazerem escolhas. Elas preveem os obstáculos. ",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 15,
+					"titulo": "Disciplina",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Disciplina gostam de rotina e estrutura. Seu mundo é mais bem descrito em termos da ordem que elas criam. ",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 17,
+					"titulo": "Foco",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema Foco escolhem uma direção e a seguem, fazendo as correções necessárias para manter o curso escolhido. Elas definem prioridades, e então agem.",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 29,
+					"titulo": "Responsabilidade",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Responsabilidade assumem uma responsabilidade psicológica de cumprir o que prometem. Elas são comprometidas com valores estáveis, tais como honestidade e lealdade. ",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 30,
+					"titulo": "Restauração",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Restauração são especialistas em lidar com problemas. Elas são boas em descobrir o que está errado e resolver o problema.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 1,
+						"titulo": "Execução",
+						"descricao": "Líderes que têm a execução como ponto forte dominante sabem como fazer as coisas acontecerem. Quando você precisa de alguém para implementar uma solução, estas são as pessoas que irão trabalhar de forma incansável para a conclusão dessa tarefa. Líderes que têm a execução como ponto forte são capazes de ¿captar¿ uma ideia e torná-la realidade.",
+						"criadoEm": 1594323714000,
+						"ativo": true,
+						"cor": "#7B2481",
+						"exibicaoRelatorio": true
+					}
+				}
+			]
+		},
+		{
+			"id": 2,
+			"titulo": "Influência",
+			"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+			"criadoEm": 1594323715000,
+			"ativo": true,
+			"cor": "#E97200",
+			"exibicaoRelatorio": true,
+			"talentos": [
+				{
+					"id": 2,
+					"titulo": "Ativação",
+					"cicloAtividade": null,
+					"descricao": "Pessoas com forte tema de talento Ativação podem fazer com que as coisas aconteçam, tornando pensamentos em ação. Elas geralmente são impacientes.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 7,
+					"titulo": "Comando",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Comando têm presença. Elas podem assumir o controle de uma situação e tomar decisões.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 8,
+					"titulo": "Comunicação",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Comunicação geralmente têm facilidade de traduzir seus pensamentos em palavras. Elas têm boas conversas e são bons apresentadores.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 9,
+					"titulo": "Competição",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Competição medem seu progresso em relação ao desempenho dos outros. Elas se esforçam para conquistar sempre o primeiro lugar e adoram participar de competições.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 26,
+					"titulo": "Excelência",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Excelência concentram-se nos pontos fortes como um modo de incentivar a excelência individual e do grupo. Elas procuram transformar algo muito bom em algo fantástico.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 31,
+					"titulo": "Auto-afirmação",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Autoafirmação sentem-se confiantes em sua capacidade de administrar suas próprias vidas. Elas têm uma bússola interna que lhes dá confiança sobre a correção de suas decisões.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 32,
+					"titulo": "Significância",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Significância desejam ser vistas como muito importantes pelos outros. Elas são independentes e desejam ser reconhecidas.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 34,
+					"titulo": "Carisma",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Carisma adoram o desafio de conhecer novas pessoas e conquistá-las. Elas sentem satisfação em quebrar o gelo e estabelecer contato com alguém.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 2,
+						"titulo": "Influência",
+						"descricao": "Aqueles que lideram influenciando sua equipe ajudam a atingir um público muito mais amplo. As pessoas com ponto forte neste domínio estão sempre vendendo as ideias da equipe dentro e fora da organização. Quando você precisa de alguém para assumir o controle, falar e garantir que seu grupo seja ouvido, procure alguém que tenha influência como ponto forte.",
+						"criadoEm": 1594323715000,
+						"ativo": true,
+						"cor": "#E97200",
+						"exibicaoRelatorio": true
+					}
+				}
+			]
+		},
+		{
+			"id": 3,
+			"titulo": "Construção de Relacionamentos",
+			"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+			"criadoEm": 1594323716000,
+			"ativo": true,
+			"cor": "#0070CD",
+			"exibicaoRelatorio": true,
+			"talentos": [
+				{
+					"id": 3,
+					"titulo": "Adaptabilidade",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Adaptabilidade preferem \"aceitar as coisas conforme acontecem\". Elas tendem a serem pessoas centradas no \"agora\", que aceitam as coisas como as recebem e descobrem o futuro um dia de cada vez.",
+					"idExterno": null,
+					"criadoEm": 1597786243000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 10,
+					"titulo": "Conexão",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Conexão acreditam nas ligações entre todas as coisas. Elas acreditam que há poucas coincidências e que quase todo evento tem significado.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 14,
+					"titulo": "Desenvolvimento",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Desenvolvimento reconhecem e cultivam o potencial em outros. Elas identificam os sinais de cada pequena melhoria e obtém satisfação a partir da evidência do progresso. ",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 16,
+					"titulo": "Empatia",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Empatia conseguem perceber as sensações dos outros se colocando na \"pele\" e na situação dos outros. ",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 19,
+					"titulo": "Harmonia",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Harmonia buscam o consenso. Elas não gostam de conflitos; em vez disso, procuram pontos de concordância.\t",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 21,
+					"titulo": "Inclusão",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Inclusão aceitam os outros. Elas se importam com as pessoas que se sentem excluídas e se esforçam para incluí-las.",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 22,
+					"titulo": "Individualização",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Individualização sentem-se fascinadas pelas qualidades exclusivas de cada um. Elas têm o dom de descobrir como diferentes pessoas podem trabalhar juntas de forma produtiva.\t",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 27,
+					"titulo": "Positivo",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Positivo têm um entusiasmo contagiante.\nSão pessoas alegres e que estimulam os outros com seus planos. \n",
+					"idExterno": null,
+					"criadoEm": 1597786244000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 28,
+					"titulo": "Relacionamento",
+					"cicloAtividade": null,
+					"descricao": " Pessoas excepcionalmente talentosas no tema de talento Relacionamento preferem relacionamentos muito próximos com os outros. Elas sentem enorme satisfação em ajudar seus amigos a conquistar um objetivo.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 3,
+						"titulo": "Construção de Relacionamentos",
+						"descricao": "Aqueles que lideram por meio da Criação de relacionamentos são essenciais para manter a união de uma equipe. Sem esses pontos fortes em uma equipe, em muitos casos, o grupo é simplesmente uma combinação de pessoas. Por outro lado, líderes com um ponto forte excepcional para a Criação de relacionamentos têm a capacidade exclusiva de criar grupos e organizações que são muito maiores do que a soma de suas partes.",
+						"criadoEm": 1594323716000,
+						"ativo": true,
+						"cor": "#0070CD",
+						"exibicaoRelatorio": true
+					}
+				}
+			]
+		},
+		{
+			"id": 4,
+			"titulo": "Pensamento Estratégico",
+			"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+			"criadoEm": 1594323717000,
+			"ativo": true,
+			"cor": "#00945D",
+			"exibicaoRelatorio": true,
+			"talentos": [
+				{
+					"id": 4,
+					"titulo": "Analítico",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Analítico procuram por motivos e causas. Elas têm a capacidade de pensar sobre todos os fatores que podem afetar uma situação.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 12,
+					"titulo": "Contexto",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Contexto gostam de pensar no passado.\nElas entendem o presente estudando sua história.\n",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 18,
+					"titulo": "Futurista",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Futurista são inspiradas pelo futuro e pelo que pode acontecer. Elas energizam os outros com suas visões do futuro.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 20,
+					"titulo": "Ideativo",
+					"cicloAtividade": null,
+					"descricao": "Pessoas excepcionalmente talentosas no tema de talento Ideativo são fascinadas por ideias. Elas conseguem descobrir conexões entre fenômenos aparentemente não relacionados.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 23,
+					"titulo": "Input",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Input têm um desejo de saber mais.\nFrequentemente elas gostam de coletar e arquivar todos os tipos de informações.\n",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 24,
+					"titulo": "Intelecção",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Intelecção caracterizam-se por sua atividade intelectual. Elas são pessoas introspectivas e que apreciam discussões intelectuais. ",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 25,
+					"titulo": "Estudioso",
+					"cicloAtividade": null,
+					"descricao": " As pessoas excepcionalmente talentosas no tema de talento Estudioso têm um grande desejo de aprender e desejam aprimorar-se continuamente. Elas são motivadas muito mais pelo processo de aprendizagem do que pelos resultados.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				},
+				{
+					"id": 33,
+					"titulo": "Estratégico",
+					"cicloAtividade": null,
+					"descricao": "As pessoas excepcionalmente talentosas no tema de talento Estratégico criam formas alternativas para prosseguir. Diante de qualquer cenário que se apresente, elas sabem rapidamente detectar os padrões e as questões importantes.",
+					"idExterno": null,
+					"criadoEm": 1597786245000,
+					"ativo": true,
+					"dominio": {
+						"id": 4,
+						"titulo": "Pensamento Estratégico",
+						"descricao": "Líderes que têm o Pensamento Estratégico como ponto forte são aqueles que conseguem fazer com que todos mantenham o foco nas possibilidades de como fazer as coisas. Eles estão constantemente absorvendo e analisando informações e ajudando a equipe a tomar melhores decisões. As pessoas com ponto forte neste domínio continuamente estendem nossos pensamentos com relação ao futuro.",
+						"criadoEm": 1594323717000,
+						"ativo": true,
+						"cor": "#00945D",
+						"exibicaoRelatorio": true
+					}
+				}
+			]
+		}
+	]
+}
