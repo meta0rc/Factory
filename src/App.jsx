@@ -1,10 +1,12 @@
+import { AssuntosDeInteresse } from "./components/AssuntosDeInteresse";
 import { Table } from "./components/Table";
+import assuntos from "./mocks/assuntos.json"
 
 export default function App() {
   return (
     <div>
       <h1>App</h1>
-      <Table rows={rows}/>
+      <AssuntosDeInteresse assuntos={assuntos}/>
     </div>
   );
 }
