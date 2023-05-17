@@ -3,18 +3,7 @@
         "id": 2,
         "titulo": "Ações Específicas",
         "criadoEm": 1590548400000,
-        "ativo": true,
-        "assuntoObjetos": [
-            {
-                "id": 11,
-                "titulo": "Capacitações Técnicas",
-                "criadoEm": 1590548400000,
-                "ativo": false,
-                "idAssuntoTopico": 2,
-                "tituloAssuntoTopico": "Ações Específicas",
-                "assuntos": null
-            }
-        ]
+        "ativo": true
     },
     {
         "id": 1,
@@ -33,14 +22,6 @@
                     {
                         "id": 1,
                         "titulo": "Autoconhecimento",
-                        "criadoEm": 1590622484000,
-                        "ativo": true,
-                        "idAssuntoObjeto": 1,
-                        "tituloAssuntoObjeto": "Autoliderança"
-                    },
-                    {
-                        "id": 2,
-                        "titulo": "Resiliência",
                         "criadoEm": 1590622484000,
                         "ativo": true,
                         "idAssuntoObjeto": 1,
@@ -70,41 +51,7 @@
                 "criadoEm": 1590548400000,
                 "ativo": true,
                 "idAssuntoTopico": 1,
-                "tituloAssuntoTopico": "Competências Essenciais",
-                "assuntos": [
-                    {
-                        "id": 671,
-                        "titulo": "Comunicação escrita",
-                        "criadoEm": 1603205415103,
-                        "ativo": true,
-                        "idAssuntoObjeto": 2,
-                        "tituloAssuntoObjeto": "Comunicação Pessoal"
-                    },
-                    {
-                        "id": 6,
-                        "titulo": "Comunicação não violenta",
-                        "criadoEm": 1590622485000,
-                        "ativo": true,
-                        "idAssuntoObjeto": 2,
-                        "tituloAssuntoObjeto": "Comunicação Pessoal"
-                    },
-                    {
-                        "id": 7,
-                        "titulo": "Escrita",
-                        "criadoEm": 1590622485000,
-                        "ativo": false,
-                        "idAssuntoObjeto": 2,
-                        "tituloAssuntoObjeto": "Comunicação Pessoal"
-                    },
-                    {
-                        "id": 8,
-                        "titulo": "Comunicação oral",
-                        "criadoEm": 1590622485000,
-                        "ativo": true,
-                        "idAssuntoObjeto": 2,
-                        "tituloAssuntoObjeto": "Comunicação Pessoal"
-                    }
-                ]
+                "tituloAssuntoTopico": "Competências Essenciais"
             },
             {
                 "id": 3,

@@ -12,11 +12,11 @@ const Collapse = ({
   active,
   children,
   onClick,
-  text,
   disabled,
   checked,
   onCheck,
   subject,
+  id
 }) => {
   const name = subjectType(subject);
 
@@ -28,7 +28,7 @@ const Collapse = ({
     onCheck(subject, name);
   };
   return (
-    <Container key={name + subject.titulo}>
+    <Container>
       <ContainerControl>
         <Button
           active={active}

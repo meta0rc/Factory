@@ -1,74 +1,56 @@
-import { useState } from "react";
 import { Container } from "./style";
 import Collapse from "../colapse/collapsible";
 import subjects from "../../mocks/assuntos.json";
-import useStateWithCallback from "../../hooks";
+import { useFunctionsSubjects } from "./services";
+import { useEffect } from "react";
 
 export const AssuntosDeInteresse = () => {
-  const [expandedSubjects, setExpandedSubjects] = useState(
-    DEFAULT_TYPES_INITIAL_SUBJECTS
-  );
-  const [selectedSubjects, setSelectedSubjects] = useStateWithCallback(
-    DEFAULT_TYPES_INITIAL_SUBJECTS
-  );
-
-  const onChangeExpand = (subject, levelSubject) => {
-    const { id: idSubject } = subject;
-    if (expandedSubjects[levelSubject].includes(idSubject)) {
-      return setExpandedSubjects((prev) => ({
-        ...prev,
-        [levelSubject]: prev[levelSubject].filter(
-          (subject) => subject != idSubject
-        ),
-      }));
-    }
-    return setExpandedSubjects((prev) => ({
-      ...prev,
-      [levelSubject]: [...prev[levelSubject], idSubject],
-    }));
-  };
-
-  const onCheckSubject = (subject, subjectType) => {
-    if(subjectType == "assuntoTopicos") {
-      onCheckSubjectTypeTopic(subject);
-    }
-  };
-
-  const onCheckSubjectTypeTopic = (subject) => {
-    const TMP_SUBJECTS = selectedSubjects
-    
-    TMP_SUBJECTS.assuntoTopicos = [...TMP_SUBJECTS.assuntoTopicos, ]
-  }
-
+  const { 
+    onChangeExpand,
+    onCheckSubject,
+    onCheckSubjectObject,
+    onCheckSubjectTopic,
+    expandedSubjects,
+    selectedSubjects,
+    isCheckedTypeTopic,
+    isCheckedTypeObject,
+    getSubjectsSelecteds
+  } = useFunctionsSubjects();
+  
+  const Selecteds = getSubjectsSelecteds();
   return (
     <Container>
       {subjects.map((assuntoTopico) => (
         <Collapse
+          key={assuntoTopico.titulo + assuntoTopico.id}
           subject={assuntoTopico}
           onClick={onChangeExpand}
           active={expandedSubjects.assuntoTopicos.includes(assuntoTopico.id)}
-          onCheck={onCheckSubject}
-          checked={selectedSubjects.assuntoTopicos.includes(assuntoTopico.id)}
+          onCheck={onCheckSubjectTopic}
+          checked={isCheckedTypeTopic(assuntoTopico)}
         >
-          {assuntoTopico.assuntoObjetos.map((assuntoObjeto) => (
+          {assuntoTopico.assuntoObjetos && assuntoTopico.assuntoObjetos.map((assuntoObjeto) => (
             <Collapse
+              key={assuntoObjeto.titulo + assuntoObjeto.id}
               onClick={onChangeExpand}
               active={expandedSubjects.assuntoObjetos.includes(
                 assuntoObjeto.id
               )}
               subject={assuntoObjeto}
-              onCheck={onCheckSubject}
-              checked={selectedSubjects.assuntoObjetos.includes(
-                assuntoObjeto.id
-              )}
+              onCheck={onCheckSubjectObject}
+              checked={isCheckedTypeObject(assuntoObjeto)}
+
             >
               {assuntoObjeto.assuntos &&
                 assuntoObjeto.assuntos.map((assunto) => (
                   <Collapse
+                    key={assunto.titulo + assunto.id}
                     subject={assunto}
-                    checked={selectedSubjects.assuntoObjetos.includes(
-                      assunto.idAssuntoObjeto
-                    ) || selectedSubjects.assuntos.includes(assunto.id)}
+                    checked={
+                      selectedSubjects.assuntoObjetos.includes(
+                        assunto.idAssuntoObjeto
+                      ) || selectedSubjects.assuntos.includes(assunto.id)
+                    }
                     disabled
                     onCheck={onCheckSubject}
                   />
@@ -77,12 +59,9 @@ export const AssuntosDeInteresse = () => {
           ))}
         </Collapse>
       ))}
+      <Container>
+          {Selecteds.map(assunto => assunto.titulo)}
+      </Container>
     </Container>
   );
-};
-
-const DEFAULT_TYPES_INITIAL_SUBJECTS = {
-  assuntos: [],
-  assuntoObjetos: [],
-  assuntoTopicos: [],
 };
